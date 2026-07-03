@@ -69,7 +69,7 @@ Extracted text is stored securely and used for AI-powered document querying.
 
 ## 🤖 AI Document Chat
 
-<img src="./Screenshots/vaultDetail.png" width="380px" alt="Document and Chat Page">
+<img src="./Screenshots/vaulDetail.png" width="380px" alt="Document and Chat Page">
 
 - Ask questions about uploaded documents
 - AI responds only using uploaded document content
