@@ -9,6 +9,8 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 
 ## 🌐 Landing Page
 
+<img src="./Screenshots/.png" width="380px" alt="Landing Page">
+
 - Modern responsive landing page
 - Project overview
 - Feature highlights
