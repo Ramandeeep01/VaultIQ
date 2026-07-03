@@ -9,7 +9,7 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 
 ## 🌐 Landing Page
 
-<img src="./Screenshots/.png" width="380px" alt="Landing Page">
+<img src="./Screenshots/landingPage.png" width="380px" alt="Landing Page">
 
 - Modern responsive landing page
 - Project overview
@@ -19,6 +19,8 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 
 ## 👤 Authentication
 
+<img src="./Screenshots/authentication.png" width="380px" alt="Authentication Page">
+
 - User Signup
 - User Login
 - JWT Authentication
@@ -27,6 +29,11 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 
 
 ## 📂 Vault Management
+<div>
+  <img src="./Screenshots/dashboard.png" width="380px" alt="Dashboard Page">
+  <img src="./Screenshots/vaults.png" width="380px" alt="Vault Page">
+  <img src="./Screenshots/createVault" width="380px" alt="Create Vault Page">
+</div>
 
 - Create Vaults
 - Edit Vault Details
@@ -61,6 +68,8 @@ Extracted text is stored securely and used for AI-powered document querying.
 
 
 ## 🤖 AI Document Chat
+
+<img src="./Screenshots/vaultDetail.png" width="380px" alt="Document and Chat Page">
 
 - Ask questions about uploaded documents
 - AI responds only using uploaded document content
