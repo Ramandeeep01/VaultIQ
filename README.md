@@ -43,6 +43,8 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 
 ## 📄 Document Management
 
+<img src="./Screenshots/vaulDetail.png" width="380px" alt="Document and Chat Page">
+
 - Upload Documents
 - View Uploaded Documents
 - Delete Documents
