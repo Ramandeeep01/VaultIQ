@@ -32,7 +32,7 @@ Whether it's PDFs, Word documents, text files, or images, VaultIQ transforms you
 <div>
   <img src="./Screenshots/dashboard.png" width="380px" alt="Dashboard Page">
   <img src="./Screenshots/vaults.png" width="380px" alt="Vault Page">
-  <img src="./Screenshots/createVault" width="380px" alt="Create Vault Page">
+  <img src="./Screenshots/createVault.png" width="380px" alt="Create Vault Page">
 </div>
 
 - Create Vaults
