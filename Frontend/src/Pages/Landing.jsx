@@ -7,7 +7,7 @@ const Landing = () => {
   return (
     <div className="min-h-screen bg-[#e7eaf6] text-[#113f67]">
 
-=      <header className="flex justify-between items-center px-10 py-6 border-b border-[#a2a8d3] bg-[#e7eaf6]/70 backdrop-blur-xl sticky top-0 z-50">
+      <header className="flex justify-between items-center px-10 py-6 border-b border-[#a2a8d3] bg-[#e7eaf6]/70 backdrop-blur-xl sticky top-0 z-50">
         <h1 className="text-2xl font-black tracking-tight">VaultIQ</h1>
 
         <div className="flex gap-3">
@@ -92,7 +92,7 @@ const Landing = () => {
 
       </section>
 
-=      <section className="border-y border-[#a2a8d3] py-6 bg-white/40">
+      <section className="border-y border-[#a2a8d3] py-6 bg-white/40">
         <div className="max-w-7xl mx-auto px-10 flex justify-between text-sm text-gray-500">
           <span>Trusted by students</span>
           <span>Researchers</span>
